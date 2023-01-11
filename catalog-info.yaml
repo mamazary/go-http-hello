@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: mamazary/go-http-hello
 spec:
-  type: other
+  type: service
   lifecycle: staging
   owner: infra
+  project: atlanta
